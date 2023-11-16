@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\xiaof\Desktop\生产相关\最终项目内容\code-judge-c++\code-judge-c++\main.cpp(58,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  code-judge-c++.vcxproj -> C:\Users\xiaof\Desktop\生产相关\最终项目内容\code-judge-c++\x64\Debug\code-judge-c++.exe
